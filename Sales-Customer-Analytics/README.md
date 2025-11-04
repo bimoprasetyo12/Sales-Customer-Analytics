@@ -1,9 +1,3 @@
-Great, kamu pilih **Corporate Minimalist (LinkedIn Portfolio style)**.
-Berikut versi **README.md final** yang cocok untuk GitHub & portfolio profesional 👇
-(Kamu tinggal copy-paste menggantikan README sekarang)
-
----
-
 ## 📊 Sales & Customer Analytics — Python & Power BI
 
 Analisis penjualan dan perilaku pelanggan menggunakan **Python** untuk data preparation & exploratory analysis, serta **Power BI** untuk dashboard interaktif dengan pendekatan **minimalist business insight**.
@@ -137,5 +131,6 @@ df.to_csv("sales_dataset_cleaned.csv", index=False)
 ## ✅ License
 
 MIT — free for learning & portfolio use.
+
 
 ---
